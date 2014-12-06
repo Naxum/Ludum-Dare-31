@@ -1,0 +1,11 @@
+Ludum Dare 31 Brainstorming!
+
+Theme: Entire Game on One Screen
+
+Local multiplayer game
+Limited space building/simulation game
+Physics/skill based continuous combo game? Jump off the walls and obstacles invade from the edges
+Artsy game where you're a child on a bus ride (long vehicle ride) and your gameboy is the only game you can play (the game is on that screen)
+Management game - design different layouts for different requirements (like concert layouts for different bands in the same venue)
+Dwarf fortress style game, only one screen but you can change elevations
+Move through an abandoned 3d world while playing an informational game about what happened there on periodic screens?
