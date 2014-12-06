@@ -9,3 +9,24 @@ Artsy game where you're a child on a bus ride (long vehicle ride) and your gameb
 Management game - design different layouts for different requirements (like concert layouts for different bands in the same venue)
 Dwarf fortress style game, only one screen but you can change elevations
 Move through an abandoned 3d world while playing an informational game about what happened there on periodic screens?
+
+
+This is cool: Ender's game style interactions: you're in a military complex and are forced to play games on big neato displays
+
+But what do you do in the game? Hmm...
+
+People watch from hidden areas, you can sneak around between sessions a la assassin's creed 1?
+
+You are given a certain number of bombs per screen and need to maximize damage?
+Basically a top-down military commanding game. Maybe you can move units around.
+
+If it was space stuff, it would probably be too close to Ender's game.
+But, it would also be pretty cool.
+
+
+
+Need to think about a more realistic scope for this game...
+
+(Probably won't have time to create characters/dialog system and still have the game be fun...)
+
+BBL (Food)

@@ -17,11 +17,7 @@ public class Movement : MonoBehaviour
 	
 	void Update () 
 	{
-		this.cc.Move(Quaternion.LookRotation(transform.forward) * moveDir * Time.deltaTime * speed * 2.5f);
-	}
-
-	void FixedUpdate()
-	{
 		moveDir = new Vector3(Input.GetAxis("Horizontal"), -1, Input.GetAxis("Vertical"));
+		this.cc.Move(Quaternion.LookRotation(transform.forward) * moveDir * Time.deltaTime * speed * 2.5f);
 	}
 }
